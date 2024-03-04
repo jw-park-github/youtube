@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a770a18c-fcdf-44bf-8cb5-d9ff7a19e4d6" name="Changes" comment="" />
+    <list default="true" id="12b3533b-fb3a-4379-821c-4507c0e9564d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/explore.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/hamburger-menu.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/library.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/notifications.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/originals.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/search.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/subscriptions.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/upload.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/voice-search-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/youtube-apps.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/youtube-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/youtube-music.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/avatars/avatar-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/thumbnails/thumbnail-1.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/thumbnails/thumbnail-2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/thumbnails/thumbnail-3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/thumbnails/thumbnail-4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/thumbnails/thumbnail-5.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/thumbnails/thumbnail-6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/thumbnails/thumbnail-7.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/thumbnails/thumbnail-8.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/general.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/video.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +43,7 @@
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2dBmaKk2vg49eQuJALgE2xFbmBN" />
+  <component name="ProjectId" id="2dCbUOznVY8WyMrs6MAesses1ce" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,10 +51,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ms231/OneDrive/바탕 화면/구름/[구름] 과제 파일/youtube/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -32,12 +69,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a770a18c-fcdf-44bf-8cb5-d9ff7a19e4d6" name="Changes" comment="" />
-      <created>1709489915068</created>
+      <changelist id="12b3533b-fb3a-4379-821c-4507c0e9564d" name="Changes" comment="" />
+      <created>1709515024895</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1709489915068</updated>
-      <workItem from="1709489916212" duration="2000" />
+      <updated>1709515024895</updated>
+      <workItem from="1709515026016" duration="349000" />
     </task>
     <servers />
   </component>
